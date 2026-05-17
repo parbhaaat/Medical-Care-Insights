@@ -147,20 +147,6 @@ Hospital stay duration varied significantly across patients.
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Healthcare-Analytics-Dashboard/
-│
-├── Dataset/
-├── SQL Queries/
-├── Power BI Dashboard/
-├── Images/
-└── README.md
-```
-
----
-
 # 📌 Conclusion
 
 This project demonstrates how healthcare data can be transformed into actionable business insights using SQL and Power BI. The dashboard helps healthcare organizations improve financial monitoring, operational efficiency, and patient care decision-making.
