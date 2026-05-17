@@ -1,4 +1,4 @@
-# 🏥 Medical care insights Dashboard
+# 🏥 Healthcare Analystics Dashboard
 
 An interactive Healthcare Analytics Dashboard built using **SQL** and **Power BI** to analyze hospital operations, patient demographics, billing trends, insurance performance, and clinical insights.
 
