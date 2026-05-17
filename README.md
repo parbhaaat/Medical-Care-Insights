@@ -124,13 +124,13 @@ Hospital stay duration varied significantly across patients.
 # 📷 Dashboard Preview
 
 ## Executive Overview
-<img width="100%" alt="Dashboard Overview" src="images/dashboard1.png">
+<img width="1367" height="767" alt="Screenshot 2026-05-17 112017" src="https://github.com/user-attachments/assets/cbcae0b4-8b5c-4924-93b4-c275089de07e" />
 
 ## Patient & Demographic Analysis
-<img width="100%" alt="Demographic Analysis" src="images/dashboard2.png">
+<img width="1431" height="795" alt="Screenshot 2026-05-16 140720" src="https://github.com/user-attachments/assets/dda0fac0-b8b6-49bc-af24-0cc908c83180" />
 
 ## Financial & Operational Analysis
-<img width="100%" alt="Financial Analysis" src="images/dashboard3.png">
+<img width="1426" height="796" alt="Screenshot 2026-05-16 140742" src="https://github.com/user-attachments/assets/e9fffb72-e35b-43bc-a7c2-ba7d4b9b27d4" />
 
 ---
 
