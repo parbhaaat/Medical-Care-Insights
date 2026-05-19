@@ -1,10 +1,10 @@
-# 🏥 Healthcare Analystics Dashboard
+# 🏥 Healthcare Analytics Dashboard
 
 An interactive Healthcare Analytics Dashboard built using **SQL** and **Power BI** to analyze hospital operations, patient demographics, billing trends, insurance performance, and clinical insights.
 
 This project focuses on transforming raw healthcare data into meaningful business insights through data cleaning, SQL analysis, KPI generation, and interactive dashboard visualization.
 
----
+
 
 # 📌 Project Overview
 
@@ -20,7 +20,7 @@ The goal of this project is to help healthcare organizations:
 
 The dashboard provides an executive-level overview of healthcare performance using interactive visualizations and business-focused KPIs.
 
----
+
 
 # 🛠️ Tools & Technologies Used
 
@@ -31,7 +31,7 @@ The dashboard provides an executive-level overview of healthcare performance usi
 - **Business Intelligence**
 - **KPI Analysis**
 
----
+
 
 # 📊 Key KPIs & Business Problems Solved
 
@@ -42,7 +42,7 @@ Hospitals need to identify which diseases generate the highest treatment costs t
 ### Insight
 Cancer generated the highest hospital billing amount.
 
----
+
 
 ## 2. Insurance Provider Covering Most Patients
 ### Business Problem
@@ -51,7 +51,7 @@ Hospitals must evaluate which insurance providers handle the highest patient vol
 ### Insight
 Medicare handled the highest number of patient claims.
 
----
+
 
 ## 3. Age Group With Highest Admissions
 ### Business Problem
@@ -60,7 +60,7 @@ Understanding which age groups are admitted most frequently helps hospitals impr
 ### Insight
 Senior citizens accounted for the highest hospital admissions.
 
----
+
 
 ## 4. Doctors Handling Most Patients
 ### Business Problem
@@ -69,7 +69,7 @@ Hospitals need to monitor doctor workload distribution to improve staffing effic
 ### Insight
 Top-performing doctors handled significantly more patients compared to others.
 
----
+
 
 ## 5. Average Billing by Admission Type
 ### Business Problem
@@ -78,7 +78,7 @@ Analyzing billing across admission types helps hospitals understand treatment co
 ### Insight
 Urgent admissions showed higher average billing costs.
 
----
+
 
 ## 6. Most Frequently Used Medication
 ### Business Problem
@@ -87,7 +87,7 @@ Tracking medication usage helps hospitals manage pharmaceutical inventory effici
 ### Insight
 Ibuprofen was the most frequently used medication.
 
----
+
 
 ## 7. Abnormal Test Result Analysis
 ### Business Problem
@@ -96,7 +96,7 @@ Hospitals need to identify diseases with high abnormal test cases for better ris
 ### Insight
 Certain medical conditions showed significantly higher abnormal test results.
 
----
+
 
 ## 8. Hospital Stay Duration Analysis
 ### Business Problem
@@ -105,7 +105,7 @@ Monitoring patient stay duration helps optimize bed management and operational p
 ### Insight
 Hospital stay duration varied significantly across patients.
 
----
+
 
 # 📈 Dashboard Features
 
@@ -119,7 +119,7 @@ Hospital stay duration varied significantly across patients.
 - Hospital performance analysis
 - Clinical risk monitoring
 
----
+
 
 # 📷 Dashboard Preview
 
@@ -132,7 +132,7 @@ Hospital stay duration varied significantly across patients.
 ## Financial & Operational Analysis
 <img width="1426" height="796" alt="Screenshot 2026-05-16 140742" src="https://github.com/user-attachments/assets/e9fffb72-e35b-43bc-a7c2-ba7d4b9b27d4" />
 
----
+
 
 # 🧠 Skills Demonstrated
 
@@ -145,13 +145,13 @@ Hospital stay duration varied significantly across patients.
 - Business Analysis
 - Power BI Visualization
 
----
+
 
 # 📌 Conclusion
 
 This project demonstrates how healthcare data can be transformed into actionable business insights using SQL and Power BI. The dashboard helps healthcare organizations improve financial monitoring, operational efficiency, and patient care decision-making.
 
----
+
 
 # 👨‍💻 Author
 
